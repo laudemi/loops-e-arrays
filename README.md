@@ -47,7 +47,7 @@ Ao assistir este curso, Dev será capaz de entender na prática como trabalhar c
 
 <h4>EXTRA:</h4>
 
-<strong>FLUXO DE EXECUÇÃO ARBRITÁRIO: <em>goto</em></strong>
+<strong>FLUXO DE EXECUÇÃO ARBITRÁRIO: <em>goto</em></strong>
 
 🔸O comando <em>goto</em> tem por finalidade desviar a execução do programa para qualquer outro ponto do programa, desconsiderando qualquer estrutura de repetição ou estrutura condicional.<br>
 🔸Ao contrário de C/C++, Java não tem instrução <em>goto</em>, mas java oferece suporte a <em>label</em>.<br>
